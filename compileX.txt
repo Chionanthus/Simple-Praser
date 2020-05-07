@@ -1,9 +1,0 @@
-begin
-       	A:=A+B*C;
-      	C:=A+2;
-while A<C and B<D do
-            while A>B do
-               if M=N then C:=D
-             else while A<=D do
-                 A:=D
-    	end#~
